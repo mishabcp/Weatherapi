@@ -1,0 +1,25 @@
+/* styles.css or any other CSS file you are using */
+
+/* Sunny background style */
+.sunny-background {
+    background-color: #f5e342; /* Example color for sunny background */
+    /* Additional styles for sunny background */
+}
+
+/* Night background style */
+.night-background {
+    background-color: #000000bd; /* Example color for night background */
+    /* Additional styles for night background */
+}
+
+/* Rainy background style */
+.rainy-background {
+    background-color: #1e7cd4e1; /* Example color for rainy background */
+    /* Additional styles for rainy background */
+}
+
+/* Cloudy background style */
+.cloudy-background {
+    background-color: #9bdae6; /* Example color for cloudy background */
+    /* Additional styles for cloudy background */
+}
